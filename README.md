@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 <h3 align="center">👨‍💻 A passionate pentester from Tenerife!</h3>
 
-<div align="right">
+<div align="center">
 <img src="https://media.giphy.com/media/J8t9H4Z7Wp3fq/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
 </div>
 
