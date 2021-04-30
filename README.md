@@ -21,6 +21,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanroma&show_icons=true&theme=dracula&locale=en&layout=compact" alt="bryanroma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanroma&show_icons=true&theme=dracula&locale=en" alt="bryanroma" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanroma&show_icons=true&theme=dracula&locale=en" alt="bryanroma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryanroma&theme=dark" alt="bryanroma" /></p>
+
+From Tenerife with ❤️
