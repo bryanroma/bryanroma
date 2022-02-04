@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/0xtr3mb0" target="blank"><img src="https://img.shields.io/twitter/follow/0xtr3mb0?logo=twitter&style=for-the-badge" alt="0xtr3mb0" /></a> </p>
 
 - 🔭  I’m currently working at **Deloitte**
-- 😈  Currently studying: CRTP
+- 😈  Currently studying: OSEP
 
 
 <h3 align="left">Languages and Tools:</h3>
