@@ -14,6 +14,4 @@
 
 -------
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryanroma&theme=dark" alt="bryanroma" /></p>
-
 From Tenerife with ❤️
